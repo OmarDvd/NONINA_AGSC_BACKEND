@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NONINA_AGSC_APP_BACKEND.props" />
+</Project>

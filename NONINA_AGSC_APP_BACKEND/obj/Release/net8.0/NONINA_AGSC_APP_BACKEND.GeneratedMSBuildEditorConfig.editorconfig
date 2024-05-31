@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NONINA_AGSC_APP_BACKEND
+build_property.RootNamespace = NONINA_AGSC_APP_BACKEND
+build_property.ProjectDir = C:\Users\Omar\source\repos\NONINA_AGSC_BACKEND\NONINA_AGSC_APP_BACKEND\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Omar\source\repos\NONINA_AGSC_BACKEND\NONINA_AGSC_APP_BACKEND
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Agenda/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Agenda/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Agenda/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Agenda/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Agenda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Eventoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Eventoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Eventoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Eventoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Eventoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Messages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Messages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Messages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Messages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Messages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Municipalities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVuaWNpcGFsaXRpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Municipalities/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVuaWNpcGFsaXRpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Municipalities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVuaWNpcGFsaXRpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Municipalities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVuaWNpcGFsaXRpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Municipalities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVuaWNpcGFsaXRpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Publications/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Publications/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Publications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Publications/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Publications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omar/source/repos/NONINA_AGSC_BACKEND/NONINA_AGSC_APP_BACKEND/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4pg2tahqzq

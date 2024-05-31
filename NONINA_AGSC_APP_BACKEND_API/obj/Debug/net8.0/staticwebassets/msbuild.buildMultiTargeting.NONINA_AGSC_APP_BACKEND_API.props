@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NONINA_AGSC_APP_BACKEND_API.props" />
+</Project>

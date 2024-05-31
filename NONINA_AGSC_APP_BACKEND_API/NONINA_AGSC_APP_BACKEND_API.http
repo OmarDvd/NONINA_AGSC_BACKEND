@@ -1,0 +1,6 @@
+@NONINA_AGSC_APP_BACKEND_API_HostAddress = http://localhost:5004
+
+GET {{NONINA_AGSC_APP_BACKEND_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

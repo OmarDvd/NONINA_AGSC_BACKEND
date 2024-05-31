@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NONINA_AGSC_APP_BACKEND", "NONINA_AGSC_APP_BACKEND.csproj", "{8F147B6E-406F-43D7-87FD-2B37A615DF01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NONINA_AGSC_APP_BACKEND_API", "..\NONINA_AGSC_APP_BACKEND_API\NONINA_AGSC_APP_BACKEND_API.csproj", "{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F147B6E-406F-43D7-87FD-2B37A615DF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F147B6E-406F-43D7-87FD-2B37A615DF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F147B6E-406F-43D7-87FD-2B37A615DF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F147B6E-406F-43D7-87FD-2B37A615DF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705FDF8E-1855-4CB9-8154-9B97DE3E0C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CBBD1CF-F2A1-401F-80C3-4A386A966489}
+	EndGlobalSection
+EndGlobal
