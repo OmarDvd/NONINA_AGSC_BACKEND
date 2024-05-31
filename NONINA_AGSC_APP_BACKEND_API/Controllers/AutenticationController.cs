@@ -9,6 +9,7 @@ using System.Text;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Cryptography;
 using System.Text;
+using Azure.Identity;
 
 namespace NONINA_AGSC_APP_BACKEND_API.Controllers
 {
@@ -40,7 +41,7 @@ namespace NONINA_AGSC_APP_BACKEND_API.Controllers
             string hashedPassword = HashPassword(request.clave, claveHasSalt);
             if (hashedPassword != user.Password)
             {
-                return StatusCode(StatusCodes.Status401Unauthorized, new { token = "" });
+                return StatusCode(StatusCodes.Status401Unauthorized, new {id=user.Id,admin=user.Admin,owner=user.Owner,name=user.Name,email=user.Email, token = "" });
             }
             
                 var keyBytes = Encoding.ASCII.GetBytes(secretKey);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zau7+8tC4jTbnUxqvTYrRawPXapg6BpOQJqpj3U3wCvy12oUHbt4ObI4QGDLUoOt+TijXjEtWDPqvSfdDNCOPw==",
+  "dgSpecHash": "/TjqlnHk3sPDuiz5MhXImj8+F80q+G4CCHdByjhdX3GfiTAiEFRiR+y68eQqwD8g91r1T9Zy3ynPV05nGbms/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_APP_BACKEND\\NONINA_AGSC_APP_BACKEND.csproj",
+  "projectFilePath": "C:\\Users\\Omar\\source\\repos\\NONINA_AGSC_BACKEND\\NONINA_AGSC_APP_BACKEND\\NONINA_AGSC_APP_BACKEND.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NONINA_AGSC_APP_BACKEND")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bd6b4d899f79c788256722b12419f81eb1eca3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NONINA_AGSC_APP_BACKEND")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NONINA_AGSC_APP_BACKEND")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
